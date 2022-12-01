@@ -1,4 +1,4 @@
-![Header](https://github.com/ksdiwe/ksdiwe/blob/main/komaldiwe%20Banner.png "Header")
+![Header](https://github.com/ksdiwe/ksdiwe/blob/main/komaldiwe%20github%20Banner.png "Header")
 <h1 align="center">Hola, I'm Komal Diwe <img src="https://github.com/ksdiwe/ksdiwe/blob/main/wave.gif" width="30px"></h1>
 <h3 align="center">Data Enthusiast</h3>
 
