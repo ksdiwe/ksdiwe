@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksdiwe&label=Profile%20views&color=0e75b6&style=flat" alt="ksdiwe" /> </p>
 
-- 🌱 I’m currently learning ****Python, SQL, Machine Learning, Power BI****
+- 🌱 I’m good at ****Python, SQL, Machine Learning, Power BI****
 
 - 📫 How to reach me **komaldiwe28@gmail.com**
 
