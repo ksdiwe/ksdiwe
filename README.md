@@ -1,6 +1,6 @@
 ![Header](https://github.com/ksdiwe/ksdiwe/blob/main/komaldiwe%20github%20Banner.png "Header")
-<h1 align="center">Hola, <img src="https://github.com/ksdiwe/ksdiwe/blob/main/wave.gif" width="30px"></h1>
-<h3 align="center">Data Enthusiast</h3>
+<h1 align="center">Hola <img src="https://github.com/ksdiwe/ksdiwe/blob/main/wave.gif" width="30px"></h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksdiwe&label=Profile%20views&color=0e75b6&style=flat" alt="ksdiwe" /> </p>
 
